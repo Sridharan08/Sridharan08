@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Sridharan08
-- 👀 I’m interested in web developing.
-- 🌱 I’m currently learning information technology.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in HTML,CSS,React,Nodejs,MongoDB.
+- 📫 How to reach me  sridhar872004@gmail.com
+
 
 <!---
 Sridharan08/Sridharan08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
